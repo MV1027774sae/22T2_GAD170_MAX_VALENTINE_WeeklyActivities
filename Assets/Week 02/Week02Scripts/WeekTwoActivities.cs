@@ -17,13 +17,7 @@ namespace MaxValentine
         {
             Debug.Log("This is string 1. " + "This is string 2");
             Debug.Log("My favourite game is " + favouriteGame + ", I have played it for " + hoursPlayed + " hours and it cost me $" + gamePrice + ". Therefore, my value of dollars per hour is $" + gamePrice / hoursPlayed + ".");
-
-            //int randomNumber = Random.RandomRange(1f,10f)
         }
-        // Update is called once per frame
-        void Update()
-        {
 
-        }
     }
 }
